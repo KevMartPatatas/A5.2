@@ -1,0 +1,3 @@
+C:/Users/wwwke/OneDrive/Escritorio/Segundo Semestre/Programacion/Quinta unidad/A5.2/cmake-build-debug/CMakeFiles/A5_2.dir
+C:/Users/wwwke/OneDrive/Escritorio/Segundo Semestre/Programacion/Quinta unidad/A5.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wwwke/OneDrive/Escritorio/Segundo Semestre/Programacion/Quinta unidad/A5.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
